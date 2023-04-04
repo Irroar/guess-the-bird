@@ -2,6 +2,8 @@
 
 Quiz game written with React.js there you need to guess what bird does the song belong to.
 
+Demo available via [link](https://irroar.github.io/guess-the-bird/).
+
 ![Screenshot_18](https://user-images.githubusercontent.com/18454991/229928748-6dadce96-a08a-47c8-817e-e807c57d6374.png)
 
 ## Technologies
