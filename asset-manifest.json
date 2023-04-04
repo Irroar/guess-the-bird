@@ -17,7 +17,7 @@
     "static/media/congratulationsWithAbsoluteWin.jpg": "./static/media/congratulationsWithAbsoluteWin.ed784538.jpg",
     "static/media/defaultBirdImage.jpg": "./static/media/defaultBirdImage.06a46938.jpg",
     "static/media/failure.mp3": "./static/media/failure.18423bbf.mp3",
-    "static/media/logo.svg": "./static/media/logo.4f82cd73.svg",
+    "static/media/logo.svg": "././static/media/logo.4f82cd73.svg",
     "static/media/index.css": "./static/media/play.3063680c.svg",
     "static/media/success.mp3": "./static/media/success.beda7e18.mp3"
   },
